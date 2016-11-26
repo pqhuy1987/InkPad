@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
-	<string>PhotoPad</string>
+	<string>LinkPad</string>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
